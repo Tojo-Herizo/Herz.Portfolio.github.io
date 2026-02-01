@@ -72,3 +72,164 @@ Bienvenue sur mon portfolio personnel ! Ce site présente mes compétences, proj
 - **Responsive Design** : Media queries CSS
 
 ## 📁 Structure du Projet
+Herz.Portfolio.github.io/
+│
+├── index.html # Page d'accueil principale
+├── style.css # Feuille de style principale
+├── script.js # Scripts JavaScript
+├── README.md # Documentation (ce fichier)
+├── .gitignore # Fichiers ignorés par Git
+│
+├── assets/ # Ressources statiques
+│ ├── images/ # Images du portfolio
+│ │ ├── profile.jpg # Photo de profil
+│ │ ├── projet1.jpg # Image projet 1
+│ │ ├── projet2.jpg # Image projet 2
+│ │ ├── projet3.jpg # Image projet 3
+│ │ └── background.jpg # Image de fond
+│ │
+│ ├── icons/ # Icônes SVG
+│ │ ├── logo.png # Logo personnel
+│ │ ├── python.svg # Icône Python
+│ │ └── github.svg # Icône GitHub
+│ │
+│ └── fonts/ # Polices personnalisées
+│ └── custom.woff2 # Police custom
+│
+├── projets/ # Pages détaillées des projets
+│ ├── projet1.html # Détails projet 1
+│ ├── projet2.html # Détails projet 2
+│ └── projet3.html # Détails projet 3
+│
+└── cv/ # Documents professionnels
+├── cv.pdf # Curriculum Vitae (FR)
+└── resume.pdf # Resume (EN)
+
+
+## ⚙️ Installation Locale
+
+Pour exécuter le projet localement :
+
+### Prérequis
+- Navigateur web moderne (Chrome, Firefox, Edge, Safari)
+- Serveur web local (optionnel)
+
+### Méthode 1 : Simple (double-clic)
+```bash
+# Clonez le repository
+git clone https://github.com/Tojo-Herizo/Herz.Portfolio.github.io.git
+
+# Ouvrez index.html dans votre navigateur
+cd Herz.Portfolio.github.io
+# Double-cliquez sur index.html
+# Avec Python
+cd Herz.Portfolio.github.io
+python3 -m http.server 8000
+# Puis allez sur http://localhost:8000
+
+# Avec Node.js (si vous avez npm)
+npx serve .
+# ou
+npm install -g live-server
+live-server
+
+
+📸 Aperçu Visuel
+Version Desktop
+
+https://assets/images/screenshot-desktop.png
+Version Mobile
+
+https://assets/images/screenshot-mobile.png
+🎯 Mes Projets
+📊 Analyse de Données - Python
+
+Description : Projet d'analyse de données utilisant Pandas, NumPy et Matplotlib pour extraire des insights business.
+
+Technologies : Python, Pandas, Matplotlib, Jupyter Notebook
+Durée : 2 mois
+Statut : ✅ Complété
+Lien : Voir les détails
+🌐 Site E-commerce - Full Stack
+
+Description : Développement d'une plateforme e-commerce complète avec panier, paiement et administration.
+
+Technologies : HTML, CSS, JavaScript, PHP, MySQL
+Durée : 3 mois
+Statut : ✅ Complété
+Lien : Voir les détails
+🤖 Application IA - Machine Learning
+
+Description : Modèle de machine learning pour la prédiction avec interface web interactive.
+
+Technologies : Python, Scikit-learn, Flask, Docker
+Durée : 1.5 mois
+Statut : 🚧 En développement
+Lien : Voir les détails
+📊 Mes Compétences
+Développement Web
+
+frontend:
+  technologies: ["HTML5", "CSS3", "JavaScript", "React"]
+  niveau: "Avancé"
+  projets: 15+
+
+data_science:
+  technologies: ["Python", "Pandas", "NumPy", "Scikit-learn"]
+  machine_learning: ["Classification", "Regression", "Clustering"]
+  projets: 8+
+
+databases:
+  relationnelles: ["MySQL", "PostgreSQL", "SQLite"]
+  nosql: ["MongoDB", "Redis"]
+  expérience: "3 ans"
+devops:
+  versioning: ["Git", "GitHub", "GitLab"]
+  conteneurisation: ["Docker", "Docker Compose"]
+  cloud: ["AWS", "Google Cloud"]
+📞 Contact
+
+N'hésitez pas à me contacter pour discuter de projets, collaborations ou opportunités !
+📧 Email
+
+    Email Principal : contact@tojoherizo.com
+
+    Email Alternatif : tojo.herizo@example.com
+
+🌐 Réseaux Sociaux
+
+    GitHub : @Tojo-Herizo
+
+    LinkedIn : Tojo Herizo
+
+    Twitter : @TojoHerizo
+
+    Portfolio : tojoherizo.com
+
+📍 Localisation
+
+    Ville : Antananarivo
+
+    Pays : Madagascar
+
+    Disponibilité : Freelance & CDI
+
+    Fuseau horaire : GMT+3
+
+📅 Prendre rendez-vous
+
+    Calendly : calendly.com/tojoherizo
+
+    Disponibilité : Lundi - Vendredi, 9h - 18h
+
+🤝 Contribution
+
+Les contributions sont les bienvenues ! Voici comment contribuer :
+
+    Fork le projet
+
+    Clonez votre fork :
+git clone https://github.com/Tojo-Herizo/Herz.Portfolio.github.io.git
+cd Herz.Portfolio.github.io
+
+
