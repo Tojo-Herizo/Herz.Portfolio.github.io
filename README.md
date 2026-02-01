@@ -1,10 +1,3 @@
-# 📝 Créez un README.md complet pour votre portfolio
-
-Voici un README professionnel et complet pour votre portfolio GitHub :
-
-## 📄 Fichier `README.md` (à placer à la racine)
-
-```markdown
 # 🚀 Portfolio - Tojo Herizo
 
 <div align="center">
@@ -16,24 +9,24 @@ Voici un README professionnel et complet pour votre portfolio GitHub :
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 **[🌐 Voir le site en ligne](https://tojo-herizo.github.io/Herz.Portfolio.github.io/)** | 
-**[📧 Me contacter](mailto:votre.email@example.com)** | 
-**[💼 LinkedIn](https://linkedin.com/in/votreprofil)**
+**[📧 Me contacter](mailto:contact@tojoherizo.com)** | 
+**[💼 LinkedIn](https://linkedin.com/in/tojo-herizo)**
 
 </div>
 
 ## 📋 Table des Matières
-- [✨ Aperçu](#-aperçu)
-- [🚀 Fonctionnalités](#-fonctionnalités)
-- [🛠️ Technologies](#️-technologies)
-- [📁 Structure du Projet](#-structure-du-projet)
-- [⚙️ Installation Locale](#️-installation-locale)
-- [📸 Aperçu Visuel](#-aperçu-visuel)
-- [🎯 Mes Projets](#-mes-projets)
-- [📊 Mes Compétences](#-mes-compétences)
-- [📞 Contact](#-contact)
-- [🤝 Contribution](#-contribution)
-- [📄 License](#-license)
-- [🙏 Remerciements](#-remerciements)
+- [✨ Aperçu](#aperçu)
+- [🚀 Fonctionnalités](#fonctionnalités)
+- [🛠️ Technologies](#technologies)
+- [📁 Structure du Projet](#structure-du-projet)
+- [⚙️ Installation Locale](#installation-locale)
+- [📸 Aperçu Visuel](#aperçu-visuel)
+- [🎯 Mes Projets](#mes-projets)
+- [📊 Mes Compétences](#mes-compétences)
+- [📞 Contact](#contact)
+- [🤝 Contribution](#contribution)
+- [📄 License](#license)
+- [🙏 Remerciements](#remerciements)
 
 ## ✨ Aperçu
 
@@ -155,10 +148,10 @@ php -S localhost:8000
 ## 📸 Aperçu Visuel
 
 ### Version Desktop
-![Aperçu Desktop](assets/images/screenshot-desktop.png)
+![Aperçu Desktop](https://assets/images/screenshot-desktop.png)
 
 ### Version Mobile
-![Aperçu Mobile](assets/images/screenshot-mobile.png)
+![Aperçu Mobile](https://assets/images/screenshot-mobile.png)
 
 ## 🎯 Mes Projets
 
@@ -230,18 +223,16 @@ N'hésitez pas à me contacter pour discuter de projets, collaborations ou oppor
 
 ### 🌐 Réseaux Sociaux
 - **GitHub** : [@Tojo-Herizo](https://github.com/Tojo-Herizo)
-- **LinkedIn** : [Tojo Herizo](https://linkedin.com/in/tojoherizo)
+- **LinkedIn** : [Tojo Herizo](https://linkedin.com/in/tojo-herizo)
 - **Twitter** : [@TojoHerizo](https://twitter.com/TojoHerizo)
-- **Portfolio** : [tojoherizo.com](https://tojoherizo.com)
 
 ### 📍 Localisation
 - **Ville** : Antananarivo
 - **Pays** : Madagascar
-- **Disponibilité** : Freelance & CDI
+- **Disponibilité** : Freelance
 - **Fuseau horaire** : GMT+3
 
 ### 📅 Prendre rendez-vous
-- **Calendly** : [calendly.com/tojoherizo](https://calendly.com/tojoherizo)
 - **Disponibilité** : Lundi - Vendredi, 9h - 18h
 
 ## 🤝 Contribution
@@ -318,13 +309,11 @@ Un grand merci à :
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Shields.io](https://shields.io/)
-- [Canva](https://www.canva.com/) (pour les images)
 
 ### 📚 Ressources d'apprentissage
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
-- [CSS-Tricks](https://css-tricks.com/)
 
 ---
 
@@ -339,63 +328,26 @@ Un grand merci à :
 </div>
 ```
 
-## 🚀 Comment ajouter ce README à votre portfolio
+---
 
+## 📝 Instructions pour utiliser ce README :
+
+1. **Copiez tout le texte ci-dessus**
+2. **Ouvrez votre terminal** :
 ```bash
-# 1. Allez dans votre dossier portfolio
 cd ~/Desktop/Portfolio
-
-# 2. Créez le fichier README.md
+```
+3. **Créez le fichier README.md** :
+```bash
 nano README.md
-# Copiez-collez le contenu ci-dessus
-# Appuyez sur Ctrl+X, puis Y, puis Entrée pour sauvegarder
-
-# 3. Ajoutez et commit
+```
+4. **Collez le contenu** (Ctrl+Shift+V ou clic droit → Paste)
+5. **Sauvegardez** : Ctrl+X → Y → Enter
+6. **Ajoutez à Git** :
+```bash
 git add README.md
-git commit -m "Ajout du README complet"
-
-# 4. Poussez sur GitHub
+git commit -m "Ajout README complet"
 git push origin main
 ```
 
-## 📌 Personnalisez votre README
-
-### A. Remplacez ces sections :
-1. **Email** : `contact@tojoherizo.com` → votre vrai email
-2. **Liens réseaux sociaux** : mettez vos vrais profils
-3. **Localisation** : votre ville/pays
-4. **Projets** : décrivez vos vrais projets
-5. **Compétences** : ajustez selon votre niveau
-
-### B. Ajoutez vos badges personnels :
-```markdown
-![GitHub followers](https://img.shields.io/github/followers/Tojo-Herizo?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Tojo-Herizo/Herz.Portfolio.github.io)
-```
-
-### C. Ajoutez des statistiques :
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tojo-Herizo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tojo-Herizo&layout=compact&theme=radical)
-```
-
-## 🎨 Version minimaliste si vous préférez
-
-```markdown
-# Portfolio Tojo Herizo
-
-Site portfolio disponible à : https://tojo-herizo.github.io/
-
-## Technologie
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
-## Contact
-- GitHub: @Tojo-Herizo
-- Email: votre@email.com
-```
-
-**Choisissez la version qui vous convient et ajoutez-la à votre portfolio !** 📄✨
+Votre README est maintenant prêt et professionnel ! 🎉
